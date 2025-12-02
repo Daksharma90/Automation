@@ -1,0 +1,5 @@
+groq
+pypdf
+python-docx
+customtkinter
+streamlit
